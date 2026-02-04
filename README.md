@@ -1,6 +1,6 @@
 <p align="center">
   <img src="slike_projekt/slika za pp.PNG" width="180" />
-  <img src="slike sheme/shema ojacevalec pt2" width=180"/>
+  <img src="slike_projekt/tempsnip.png" width=180"/>
 </p>
 <h1 align="center">Arduino-programable-pedal-project</h1>
 
