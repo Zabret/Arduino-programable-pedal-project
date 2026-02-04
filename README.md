@@ -1,7 +1,7 @@
 <p align="center">
   <img src="slike_projekt/slika za pp.PNG" width="180" style="margin-right:20px;" />
   <img src="slike_projekt/tempsnip.png" width="180" style="margin-right:20px;"/>
-  <img src="slike_projekt/ok.png" width=180"/>
+  <img src="slike_projekt/ok.png" width="180"/>
 </p>
 <h1 align="center">Arduino-programable-pedal-project</h1>
 
